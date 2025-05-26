@@ -4,7 +4,7 @@ I'm an Electronics and AI Engineering student with a passion for solving real-wo
 🛠️ Tech I enjoy working with:
 Python, FastAPI, SQL, Node.js, YOLO, OpenCV, LLMs, and more.
 
-Outside the world of code, I’m a photographer, traveler, and most importantlty a cat love 🐈. Whether it’s capturing concerts, wildlife, or spontaneous road trips, I’m always looking for new ways to combine creativity and tech, and create something impactful at the end of the day.
+Outside the world of code, I’m a photographer, traveler, and most importantlty a cat lover 🐈. Whether it’s capturing concerts, wildlife, or spontaneous road trips, I’m always looking for new ways to combine creativity and tech, and create something impactful at the end of the day.
 
 Let’s collaborate and create something meaningful!
 

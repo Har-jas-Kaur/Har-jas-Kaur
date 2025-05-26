@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Harjas!
+I'm an Electronics and AI Engineering student with a passion for solving real-world problems through code. My interests span across AI/ML, computer vision, backend development, and data-driven applications. I enjoy building smart systems that bridge the gap between technology and impact—whether it's automating workflows, analyzing patterns, or enhancing user experiences.
+
+🛠️ Tech I enjoy working with:
+Python, FastAPI, SQL, Node.js, YOLO, OpenCV, LLMs, and more.
+
+Outside the world of code, I’m a photographer, storyteller, and traveler. Whether it’s capturing concerts, wildlife, or spontaneous road trips, I’m always looking for new ways to combine creativity and tech.
+
+Let’s collaborate and create something meaningful!
+
+
 
 <!--
 **Har-jas-Kaur/Har-jas-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
